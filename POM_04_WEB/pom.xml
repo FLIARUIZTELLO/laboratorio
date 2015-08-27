@@ -56,12 +56,6 @@
             <type>pom</type>
         </dependency>
         <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc14</artifactId>
-            <version>10.2.0.4.0</version>
-            <type>pom</type>
-        </dependency>
-        <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>POM_01_LDOMAIN</artifactId>
             <version>${project.version}</version>
