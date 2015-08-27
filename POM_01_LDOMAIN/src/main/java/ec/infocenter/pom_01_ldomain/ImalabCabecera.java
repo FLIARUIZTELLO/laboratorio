@@ -38,6 +38,7 @@ public class ImalabCabecera implements Serializable {
     
     //ESTE COMENTARIO LO COLOCO YO DESDE LA DELL
     //PRUEBA
+    //locuas
     @Id
     @Basic(optional = false)
     @Column(name = "ID")
