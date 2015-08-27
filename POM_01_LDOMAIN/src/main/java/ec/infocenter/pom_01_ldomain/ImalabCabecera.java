@@ -37,6 +37,7 @@ public class ImalabCabecera implements Serializable {
     // @Max(value=?)  @Min(value=?)//if you know range of your decimal fields consider using these annotations to enforce field validation
     
     //ESTE COMENTARIO LO COLOCO YO DESDE LA DELL
+    //PRUEBA
     @Id
     @Basic(optional = false)
     @Column(name = "ID")
